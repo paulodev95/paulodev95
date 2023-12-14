@@ -24,6 +24,8 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+![Snake animation](https://github.com/paulodev95/paulodev95/edit/github-contribution-grid-snake.svg)
+
 ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/paulodev95/count.svg" />
