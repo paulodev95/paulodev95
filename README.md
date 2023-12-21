@@ -7,8 +7,8 @@
     media="(prefers-color-scheme: dark)"
     <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&username=paulodev95" height="150" alt="languages graph"  />
 </div>
-<a href="https://github.com/paulodev95" style="padding: 4px 0px 0px;">paulodev95</a>
 
+![Snake animation](https://github.com/07042006/07042006/blob/main/github-contribution-grid-snake.svg)
 
   />
   <source
